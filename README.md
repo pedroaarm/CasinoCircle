@@ -9,7 +9,7 @@ Siga os passos abaixo para compilar e executar o projeto.
 
 ### 1. Navegar até o Diretório `src`
 
-Abra o terminal ou prompt de comando e navegue até o diretório `src`:
+Abra o terminal ou prompt de comando e apartir da pasta raiz deste projeto navegue até o diretório `src`:
 
 ```sh
 cd src/main/java
